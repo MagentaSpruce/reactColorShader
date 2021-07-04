@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactColorShader/static/css/main.f6e8d1ab.chunk.css",
+    "main.js": "/reactColorShader/static/js/main.100d050e.chunk.js",
+    "main.js.map": "/reactColorShader/static/js/main.100d050e.chunk.js.map",
+    "runtime-main.js": "/reactColorShader/static/js/runtime-main.a31e83f0.js",
+    "runtime-main.js.map": "/reactColorShader/static/js/runtime-main.a31e83f0.js.map",
+    "static/js/2.11f691c1.chunk.js": "/reactColorShader/static/js/2.11f691c1.chunk.js",
+    "static/js/2.11f691c1.chunk.js.map": "/reactColorShader/static/js/2.11f691c1.chunk.js.map",
+    "index.html": "/reactColorShader/index.html",
+    "precache-manifest.e86c7e3f8cb270ac1767b4444dd12e96.js": "/reactColorShader/precache-manifest.e86c7e3f8cb270ac1767b4444dd12e96.js",
+    "service-worker.js": "/reactColorShader/service-worker.js",
+    "static/css/main.f6e8d1ab.chunk.css.map": "/reactColorShader/static/css/main.f6e8d1ab.chunk.css.map",
+    "static/js/2.11f691c1.chunk.js.LICENSE.txt": "/reactColorShader/static/js/2.11f691c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a31e83f0.js",
+    "static/js/2.11f691c1.chunk.js",
+    "static/css/main.f6e8d1ab.chunk.css",
+    "static/js/main.100d050e.chunk.js"
+  ]
+}
